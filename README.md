@@ -6,7 +6,6 @@ Reference : https://www.wartsila.com/encyclopedia/term/settling-tank
 ![image](https://github.com/user-attachments/assets/836639c0-9498-4561-9587-ef157e4627fb)
 
 ## 2. After cutting out the board , Draw out the manhole size and cut it out
-![image](https://github.com/user-attachments/assets/80a3782d-8aff-4264-a4b5-465ea97de7e5)
 
 Decide where to allocate the manhole and how big/small should it be . Then cut out the manhole.
 ![image](https://github.com/user-attachments/assets/69aba858-f70d-445f-8895-2a80becddb95)
