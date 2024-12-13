@@ -34,3 +34,8 @@ For the small holes , use a screw driver or any sharp object
 
 ![image](https://github.com/user-attachments/assets/68f5a51a-8fac-4d3f-a4c0-faf515ee3793)
 
+## Cad Model
+Software : Fusion 360 
+![image](https://github.com/user-attachments/assets/88b324b5-2352-45eb-a72f-70b025f9b90d)
+
+
